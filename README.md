@@ -1,4 +1,4 @@
-# CreditDefault
+# Online Retail Business Customers
 
 ML-Classification, Python-JupyterNB
 
